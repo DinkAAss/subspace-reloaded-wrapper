@@ -1,0 +1,21 @@
+{
+  "name": "subspace-reloaded",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build:portable": "electron-builder --win portable"
+  },
+  "devDependencies": {
+    "electron": "^29.0.0",
+    "electron-builder": "^24.9.1"
+  },
+  "build": {
+    "appId": "com.subspace.reloaded",
+    "productName": "Subspace Reloaded",
+    "win": {
+      "target": "portable",
+      "icon": "./SSRL.ico"
+    }
+  }
+}
