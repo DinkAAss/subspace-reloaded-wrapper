@@ -1,5 +1,7 @@
 # Subspace Reloaded Desktop Wrapper
 
+Download app for Windows or Linux. https://github.com/DinkAAss/subspace-reloaded-wrapper/releases/tag/Subspace_Reloaded
+
 A standalone desktop wrapper for the Subspace Reloaded web client, built with Electron.
 
 ## Features
